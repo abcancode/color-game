@@ -66,7 +66,7 @@ function reset(){
         }
        
     }
-    h1.style.backgroundColor = "red";
+    h1.style.backgroundColor = "#A3AF4D";
 }
 
 resetButton.addEventListener("click", function(){
