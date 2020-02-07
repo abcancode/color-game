@@ -24,7 +24,7 @@ body {
 h1 {
     text-align: center;
     line-height: 1.1;
-    background-color: steelblue;
+    background-color: #A3AF4D;
     color: #fff;
     margin: 0;
     font-weight: normal;
@@ -41,7 +41,7 @@ h1 {
 
 .selected  {
     color: #fff;
-    background-color: steelblue;
+    background-color: #A3AF4D;
 }
 
 #colorDisplay {
@@ -59,7 +59,7 @@ button {
     text-transform: uppercase;
     height: 100%;
     font-weight: 700;
-    color: steelblue;
+    color: #A3AF4D;
     letter-spacing: 1px;
     font-size: inherit;
     transition: all 0.3s;
@@ -71,5 +71,5 @@ button {
 
 button:hover {
     color: #fff;
-    background-color: steelblue;
+    background-color: #A3AF4D;
 }
