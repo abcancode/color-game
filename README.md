@@ -10,6 +10,4 @@ You can view the app here
 
 ---
 
-![Alt Text](https://example.com/image.jpg)
-
-https://abcancode.github.io/color-game/
+You can play the game at https://abcancode.github.io/color-game/
