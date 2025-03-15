@@ -1,4 +1,4 @@
-# color-game
+# Color Game
 A JavaScript Color Guess Game designed to help code newbies and pros alike brush up their RGB colour skills. 
 
 ## How it Works
