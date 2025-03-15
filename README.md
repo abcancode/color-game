@@ -1,4 +1,4 @@
-# Color Game
+# The Great Color Game
 A JavaScript Color Game designed to help code newbies and pros alike brush up their RGB colour skills. 
 
 ---
